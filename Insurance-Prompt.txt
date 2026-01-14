@@ -1,0 +1,8 @@
+
+Can you create a sample dialogue in which the user calls the insurance company to say that they have been involved in an accident and want to make a claim, the chatbot provides a sympathetic response and then asks the required questions to which the user responds.
+
+create process flow diagram for this dialogue
+
+
+Create mermaid sequence diagram for a sample dialogue in which the user calls the insurance company to say that they have been involved in an accident and want to make a claim, the chatbot provides a sympathetic response and then asks the required questions to which the user responds.
+
