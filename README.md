@@ -1,6 +1,6 @@
 # 🎨 Mermaid Tutorial
 
-A comprehensive collection of **Mermaid diagram examples** demonstrating various diagram types for real-world use cases. This repository showcases how to create professional diagrams for documentation, process flows, and system design using Mermaid syntax.
+
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
